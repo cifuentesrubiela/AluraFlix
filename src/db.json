@@ -1,0 +1,186 @@
+{
+  "videos": [
+    {
+      "id": "7897c444-e35b-4ee7-a1f1-95aa320ce179",
+      "titulo": "Nino bravo America",
+      "linkVideo": "https://www.youtube.com/watch?v=ybIK-P13StE",
+      "linkImagen": "https://i.ytimg.com/vi/iTDcmDpc6JM/hqdefault.jpg",
+      "categoria": "Romantica",
+      "descripcion": "muy bonita",
+      "codigoSeguridad": "123"
+    },
+    {
+      "id": "0ce2f9f8-c4cd-4ed8-b522-35e4c03709ef",
+      "titulo": " Esa Sera Mi Casa ",
+      "linkVideo": "https://www.youtube.com/watch?v=yjItSx_mHP0",
+      "linkImagen": "https://thumbs2.imgbox.com/3a/32/m0G6XFbs_t.jpg",
+      "categoria": "Romantica",
+      "descripcion": "muy bonita",
+      "codigoSeguridad": "123"
+    },
+    {
+      "id": "381cee0f-b458-49cc-bfc5-c9b90f799b32",
+      "titulo": "Cartas amarillas",
+      "linkVideo": "https://www.youtube.com/watch?v=6HUsHiAYjwE",
+      "linkImagen": "https://thumbs2.imgbox.com/9e/9d/uAs4hdHn_t.jpg",
+      "categoria": "Romantica",
+      "descripcion": "muy bonita",
+      "codigoSeguridad": "123"
+    },
+    {
+      "id": "1c0edbab-debf-4033-a430-453948d1521c",
+      "titulo": "Hasta que te conoci",
+      "linkVideo": "https://www.youtube.com/watch?v=L4-5uWCcTWA",
+      "linkImagen": "https://thumbs2.imgbox.com/6f/fd/V8jmC4dX_t.jpg",
+      "categoria": "Romantica Mexicana",
+      "descripcion": "muy bonita",
+      "codigoSeguridad": "123"
+    },
+    {
+      "id": "5899b8d2-168f-412d-9720-92e215a6b22a",
+      "titulo": "Con tu Amor",
+      "linkVideo": "https://www.youtube.com/watch?v=BUqYe6-oqb0",
+      "linkImagen": "https://thumbs2.imgbox.com/b5/84/HWlRAsFv_t.jpg",
+      "categoria": "Romantica Mexicana",
+      "descripcion": "muy bonita",
+      "codigoSeguridad": "123"
+    },
+    {
+      "id": "820c9255-87ca-4485-b1da-4e276671bea9",
+      "titulo": " Lucía Méndez - Mi Amor, Amor",
+      "linkVideo": "https://www.youtube.com/watch?v=0fiBT4VDIhU",
+      "linkImagen": "https://thumbs2.imgbox.com/3a/ea/iCXkgIRz_t.jpg",
+      "categoria": "Romantica Mexicana",
+      "descripcion": "muy bonita",
+      "codigoSeguridad": "123"
+    },
+    {
+      "id": "0b2494a2-ec26-4b5b-8aed-a8cf87d43ebb",
+      "titulo": "Hoy lo vi pasar",
+      "linkVideo": "https://www.youtube.com/watch?v=_rX_GtJ_RzA",
+      "linkImagen": "https://thumbs2.imgbox.com/22/2f/99GpMEWu_t.jpg",
+      "categoria": "Romantica Española",
+      "descripcion": "muy bonita",
+      "codigoSeguridad": "123"
+    },
+    {
+      "id": "e7acbf48-b881-4e17-b8b5-1932a663326e",
+      "titulo": "La Oreja de Van Gogh — Rosas ",
+      "linkVideo": "https://www.youtube.com/watch?v=enup62u1LEk",
+      "linkImagen": "https://thumbs2.imgbox.com/22/34/3mXweSLi_t.jpg",
+      "categoria": "Romantica Española",
+      "descripcion": "muy muy",
+      "codigoSeguridad": "123"
+    },
+    {
+      "id": "013e95d7-8ae2-4da2-b83c-4dd459e17914",
+      "titulo": "Un velero llamado Libertad ",
+      "linkVideo": "https://www.youtube.com/watch?v=nCap3DSJoz0",
+      "linkImagen": "https://thumbs2.imgbox.com/17/a0/sUMCMokL_t.jpg",
+      "categoria": "Romantica Española",
+      "descripcion": "muy bonita",
+      "codigoSeguridad": "123"
+    },
+    {
+      "id": "431b2866-b1e0-40b0-8e49-35464b9cf106",
+      "titulo": " UN HOMBRE LOBO EN PARIS ",
+      "linkVideo": "https://www.youtube.com/watch?v=nC8PczmIYxM",
+      "linkImagen": "https://thumbs2.imgbox.com/19/53/EqAkS0xO_t.jpg",
+      "categoria": "Pop Latinoamericano",
+      "descripcion": "muy bonita",
+      "codigoSeguridad": "123"
+    },
+    {
+      "id": "fe5dc75f-c281-4b63-a733-88b820056b92",
+      "titulo": "En algún lugar",
+      "linkVideo": "https://www.youtube.com/watch?v=XvDw0LXZCNI",
+      "linkImagen": "https://thumbs2.imgbox.com/33/97/nRuhqnZ8_t.jpg",
+      "categoria": "Pop Latinoamericano",
+      "descripcion": "muy bacana",
+      "codigoSeguridad": "123"
+    },
+    {
+      "id": "d93330bb-8343-4e19-87f3-92598286da14",
+      "titulo": "Zoe - Nada ft. Enrique Bunbury",
+      "linkVideo": "https://www.youtube.com/watch?v=EU0LljxpHIk",
+      "linkImagen": "https://thumbs2.imgbox.com/5d/03/y2n9w8uz_t.jpg",
+      "categoria": "Pop Latinoamericano",
+      "descripcion": "clásico",
+      "codigoSeguridad": "123"
+    }
+  ],
+  "categorias": [
+    {
+      "id": "5da78a34-c401-4a10-9897-7d0e9549f89d",
+      "nombre": "Romantica",
+      "color": "#f57900",
+      "codigoSeguridad": "1234"
+    },
+    {
+      "id": "27b9f96a-3fc5-4d81-8716-981f3ce1450e",
+      "nombre": "Romantica Mexicana",
+      "color": "#edd400",
+      "codigoSeguridad": "dfdsfsd"
+    },
+    {
+      "id": "bb7b9b17-b5a8-44a9-bb7a-5f79aa90165c",
+      "nombre": "Romantica Española",
+      "color": "#de80f2",
+      "codigoSeguridad": "21323423"
+    },
+    {
+      "id": "9725b189-7551-402a-aeb7-53b18b6789bd",
+      "nombre": "Pop Latinoamericano",
+      "color": "#3465a4",
+      "codigoSeguridad": "132556"
+    },
+    {
+      "id": "1080c011-4ad8-4620-84af-b3999770cc81",
+      "nombre": "Pop EEUU",
+      "color": "#d654c9",
+      "codigoSeguridad": "rgdtggr"
+    },
+    {
+      "id": "a64c639f-e45e-4605-a185-6a1def5eb2a4",
+      "nombre": "Pop Europeo",
+      "color": "#cc0000",
+      "codigoSeguridad": "fsdf"
+    },
+    {
+      "id": "6e9f0bf1-75ac-4107-9158-40a8c48816f3",
+      "nombre": "Decada de Los 60",
+      "color": "#7d5f5f",
+      "codigoSeguridad": "sdakdja"
+    },
+    {
+      "id": "a59d2b5c-10e2-4a1a-ad7b-a259d546a4a8",
+      "nombre": "Decada de los 70",
+      "color": "#9370db",
+      "codigoSeguridad": "fgdgd"
+    },
+    {
+      "id": "a8eeefab-2b0c-41f3-aaf6-784d14297296",
+      "nombre": "Decada de los 80",
+      "color": "#9beb6e",
+      "codigoSeguridad": "2325"
+    },
+    {
+      "id": "6008c59d-0d9e-4954-9eb8-80d40875385b",
+      "nombre": "Decada de los 90",
+      "color": "#fa72bb",
+      "codigoSeguridad": "fdfsdfsdf"
+    },
+    {
+      "id": "d9632dcf-0a4a-4914-935e-0a06323f0073",
+      "nombre": "Decada de los 2000",
+      "color": "#9beb6e",
+      "codigoSeguridad": "xzcxczx"
+    },
+    {
+      "id": "252852c5-1a41-4d2c-929b-b5db2414362b",
+      "nombre": "Electronica",
+      "color": "#e6a610",
+      "codigoSeguridad": "efsdf34"
+    }
+  ]
+}
